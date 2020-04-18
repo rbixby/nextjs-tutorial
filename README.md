@@ -1,2 +1,2 @@
-# task-master
-Task Management
+# nextjs-tutorial
+Next JS tutorial
